@@ -1,5 +1,4 @@
 # Quick-information-flip-card
---- 
 
 Hi!, maybe you need a card for show information in your website and you don't know how do it. If this is the reason why you are here, you found a card that you can use in two simple steps and put image, title and description along with a flip animation.
 
